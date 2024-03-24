@@ -1,0 +1,36 @@
+body {
+    font-family:'Love Ya Like A Sister';
+    background-image: URL("images/1d9fba6e26bd3271c0ca9906bc7d2c52.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+p { 
+    padding: 10px;
+     color: black;
+     font-family:"Love Ya Like A Sister", sans-serif;
+     text-decoration: none;
+     font-size: 20px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: "Love Ya Like A Sister", sans-serif;
+    font-size: 25px;
+
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+button {
+    border-radius: 5px;
+    border: none;
+    background-color: pink;
+    padding: 15px 10px;
+    font-family: "Protest Revolution";
+    margin: 0px 10px;
+    color: rgb(228, 40, 80);
+}
